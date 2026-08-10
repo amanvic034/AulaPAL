@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "numeros_1a20_crescente/1.0.0": {
+        "runtime": {
+          "numeros_1a20_crescente.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "numeros_1a20_crescente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

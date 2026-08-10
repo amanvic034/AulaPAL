@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amanda.silva\\Desktop\\Luizinho\\soma_10numeros_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A93E8307-ED7D-44D6-A0C6-E06A9535BE90}|soma_10numeros_\\soma_10numeros_.csproj|c:\\users\\amanda.silva\\desktop\\luizinho\\soma_10numeros_\\soma_10numeros_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93E8307-ED7D-44D6-A0C6-E06A9535BE90}|soma_10numeros_\\soma_10numeros_.csproj|solutionrelative:soma_10numeros_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amanda.silva\\Desktop\\Luizinho\\soma_10numeros_\\soma_10numeros_\\Program.cs",
+              "RelativeDocumentMoniker": "soma_10numeros_\\Program.cs",
+              "ToolTip": "C:\\Users\\Amanda.silva\\Desktop\\Luizinho\\soma_10numeros_\\soma_10numeros_\\Program.cs",
+              "RelativeToolTip": "soma_10numeros_\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T12:55:06.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

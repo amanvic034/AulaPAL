@@ -1,0 +1,4 @@
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_entre1_N_for\numeros_entre1_N_for\obj\Debug\net8.0\numeros_entre1_N_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_entre1_N_for\numeros_entre1_N_for\obj\Debug\net8.0\numeros_entre1_N_for.AssemblyInfoInputs.cache
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_entre1_N_for\numeros_entre1_N_for\obj\Debug\net8.0\numeros_entre1_N_for.AssemblyInfo.cs
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_entre1_N_for\numeros_entre1_N_for\obj\Debug\net8.0\numeros_entre1_N_for.csproj.CoreCompileInputs.cache

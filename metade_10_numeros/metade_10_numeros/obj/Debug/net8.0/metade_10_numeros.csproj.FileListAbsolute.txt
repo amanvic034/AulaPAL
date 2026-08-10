@@ -1,0 +1,14 @@
+C:\Users\Amanda.silva\Desktop\Luizinho\metade_10_numeros\metade_10_numeros\bin\Debug\net8.0\metade_10_numeros.exe
+C:\Users\Amanda.silva\Desktop\Luizinho\metade_10_numeros\metade_10_numeros\bin\Debug\net8.0\metade_10_numeros.deps.json
+C:\Users\Amanda.silva\Desktop\Luizinho\metade_10_numeros\metade_10_numeros\bin\Debug\net8.0\metade_10_numeros.runtimeconfig.json
+C:\Users\Amanda.silva\Desktop\Luizinho\metade_10_numeros\metade_10_numeros\bin\Debug\net8.0\metade_10_numeros.dll
+C:\Users\Amanda.silva\Desktop\Luizinho\metade_10_numeros\metade_10_numeros\bin\Debug\net8.0\metade_10_numeros.pdb
+C:\Users\Amanda.silva\Desktop\Luizinho\metade_10_numeros\metade_10_numeros\obj\Debug\net8.0\metade_10_numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanda.silva\Desktop\Luizinho\metade_10_numeros\metade_10_numeros\obj\Debug\net8.0\metade_10_numeros.AssemblyInfoInputs.cache
+C:\Users\Amanda.silva\Desktop\Luizinho\metade_10_numeros\metade_10_numeros\obj\Debug\net8.0\metade_10_numeros.AssemblyInfo.cs
+C:\Users\Amanda.silva\Desktop\Luizinho\metade_10_numeros\metade_10_numeros\obj\Debug\net8.0\metade_10_numeros.csproj.CoreCompileInputs.cache
+C:\Users\Amanda.silva\Desktop\Luizinho\metade_10_numeros\metade_10_numeros\obj\Debug\net8.0\metade_10_numeros.dll
+C:\Users\Amanda.silva\Desktop\Luizinho\metade_10_numeros\metade_10_numeros\obj\Debug\net8.0\refint\metade_10_numeros.dll
+C:\Users\Amanda.silva\Desktop\Luizinho\metade_10_numeros\metade_10_numeros\obj\Debug\net8.0\metade_10_numeros.pdb
+C:\Users\Amanda.silva\Desktop\Luizinho\metade_10_numeros\metade_10_numeros\obj\Debug\net8.0\metade_10_numeros.genruntimeconfig.cache
+C:\Users\Amanda.silva\Desktop\Luizinho\metade_10_numeros\metade_10_numeros\obj\Debug\net8.0\ref\metade_10_numeros.dll

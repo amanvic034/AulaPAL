@@ -1,0 +1,14 @@
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_1a20_crescente\numeros_1a20_crescente\obj\Debug\net8.0\numeros_1a20_crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_1a20_crescente\numeros_1a20_crescente\obj\Debug\net8.0\numeros_1a20_crescente.AssemblyInfoInputs.cache
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_1a20_crescente\numeros_1a20_crescente\obj\Debug\net8.0\numeros_1a20_crescente.AssemblyInfo.cs
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_1a20_crescente\numeros_1a20_crescente\obj\Debug\net8.0\numeros_1a20_crescente.csproj.CoreCompileInputs.cache
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_1a20_crescente\numeros_1a20_crescente\bin\Debug\net8.0\numeros_1a20_crescente.exe
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_1a20_crescente\numeros_1a20_crescente\bin\Debug\net8.0\numeros_1a20_crescente.deps.json
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_1a20_crescente\numeros_1a20_crescente\bin\Debug\net8.0\numeros_1a20_crescente.runtimeconfig.json
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_1a20_crescente\numeros_1a20_crescente\bin\Debug\net8.0\numeros_1a20_crescente.dll
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_1a20_crescente\numeros_1a20_crescente\bin\Debug\net8.0\numeros_1a20_crescente.pdb
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_1a20_crescente\numeros_1a20_crescente\obj\Debug\net8.0\numeros_1a20_crescente.dll
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_1a20_crescente\numeros_1a20_crescente\obj\Debug\net8.0\refint\numeros_1a20_crescente.dll
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_1a20_crescente\numeros_1a20_crescente\obj\Debug\net8.0\numeros_1a20_crescente.pdb
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_1a20_crescente\numeros_1a20_crescente\obj\Debug\net8.0\numeros_1a20_crescente.genruntimeconfig.cache
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_1a20_crescente\numeros_1a20_crescente\obj\Debug\net8.0\ref\numeros_1a20_crescente.dll

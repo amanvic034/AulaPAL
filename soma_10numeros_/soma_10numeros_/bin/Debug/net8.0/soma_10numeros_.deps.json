@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "soma_10numeros_/1.0.0": {
+        "runtime": {
+          "soma_10numeros_.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "soma_10numeros_/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

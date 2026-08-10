@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amanda.silva\\Desktop\\Luizinho\\numeros_ 1a10_decrescente_For\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC3392C-5D83-4D86-8436-BC1CB2204B6E}|numeros_ 1a10_decrescente_For\\numeros_ 1a10_decrescente_For.csproj|c:\\users\\amanda.silva\\desktop\\luizinho\\numeros_ 1a10_decrescente_for\\numeros_ 1a10_decrescente_for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC3392C-5D83-4D86-8436-BC1CB2204B6E}|numeros_ 1a10_decrescente_For\\numeros_ 1a10_decrescente_For.csproj|solutionrelative:numeros_ 1a10_decrescente_for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amanda.silva\\Desktop\\Luizinho\\numeros_ 1a10_decrescente_For\\numeros_ 1a10_decrescente_For\\Program.cs",
+              "RelativeDocumentMoniker": "numeros_ 1a10_decrescente_For\\Program.cs",
+              "ToolTip": "C:\\Users\\Amanda.silva\\Desktop\\Luizinho\\numeros_ 1a10_decrescente_For\\numeros_ 1a10_decrescente_For\\Program.cs",
+              "RelativeToolTip": "numeros_ 1a10_decrescente_For\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T14:02:10.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

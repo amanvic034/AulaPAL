@@ -1,0 +1,14 @@
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_maiores100_for\numeros_maiores100_for\bin\Debug\net8.0\numeros_maiores100_for.exe
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_maiores100_for\numeros_maiores100_for\bin\Debug\net8.0\numeros_maiores100_for.deps.json
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_maiores100_for\numeros_maiores100_for\bin\Debug\net8.0\numeros_maiores100_for.runtimeconfig.json
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_maiores100_for\numeros_maiores100_for\bin\Debug\net8.0\numeros_maiores100_for.dll
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_maiores100_for\numeros_maiores100_for\bin\Debug\net8.0\numeros_maiores100_for.pdb
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_maiores100_for\numeros_maiores100_for\obj\Debug\net8.0\numeros_maiores100_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_maiores100_for\numeros_maiores100_for\obj\Debug\net8.0\numeros_maiores100_for.AssemblyInfoInputs.cache
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_maiores100_for\numeros_maiores100_for\obj\Debug\net8.0\numeros_maiores100_for.AssemblyInfo.cs
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_maiores100_for\numeros_maiores100_for\obj\Debug\net8.0\numeros_maiores100_for.csproj.CoreCompileInputs.cache
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_maiores100_for\numeros_maiores100_for\obj\Debug\net8.0\numeros_maiores100_for.dll
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_maiores100_for\numeros_maiores100_for\obj\Debug\net8.0\refint\numeros_maiores100_for.dll
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_maiores100_for\numeros_maiores100_for\obj\Debug\net8.0\numeros_maiores100_for.pdb
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_maiores100_for\numeros_maiores100_for\obj\Debug\net8.0\numeros_maiores100_for.genruntimeconfig.cache
+C:\Users\Amanda.silva\Desktop\Luizinho\numeros_maiores100_for\numeros_maiores100_for\obj\Debug\net8.0\ref\numeros_maiores100_for.dll

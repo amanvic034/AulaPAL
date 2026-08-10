@@ -1,0 +1,14 @@
+C:\Users\Amanda.silva\Desktop\Luizinho\soma_10numeros_\soma_10numeros_\obj\Debug\net8.0\soma_10numeros_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanda.silva\Desktop\Luizinho\soma_10numeros_\soma_10numeros_\obj\Debug\net8.0\soma_10numeros_.AssemblyInfoInputs.cache
+C:\Users\Amanda.silva\Desktop\Luizinho\soma_10numeros_\soma_10numeros_\obj\Debug\net8.0\soma_10numeros_.AssemblyInfo.cs
+C:\Users\Amanda.silva\Desktop\Luizinho\soma_10numeros_\soma_10numeros_\obj\Debug\net8.0\soma_10numeros_.csproj.CoreCompileInputs.cache
+C:\Users\Amanda.silva\Desktop\Luizinho\soma_10numeros_\soma_10numeros_\bin\Debug\net8.0\soma_10numeros_.exe
+C:\Users\Amanda.silva\Desktop\Luizinho\soma_10numeros_\soma_10numeros_\bin\Debug\net8.0\soma_10numeros_.deps.json
+C:\Users\Amanda.silva\Desktop\Luizinho\soma_10numeros_\soma_10numeros_\bin\Debug\net8.0\soma_10numeros_.runtimeconfig.json
+C:\Users\Amanda.silva\Desktop\Luizinho\soma_10numeros_\soma_10numeros_\bin\Debug\net8.0\soma_10numeros_.dll
+C:\Users\Amanda.silva\Desktop\Luizinho\soma_10numeros_\soma_10numeros_\bin\Debug\net8.0\soma_10numeros_.pdb
+C:\Users\Amanda.silva\Desktop\Luizinho\soma_10numeros_\soma_10numeros_\obj\Debug\net8.0\soma_10numeros_.dll
+C:\Users\Amanda.silva\Desktop\Luizinho\soma_10numeros_\soma_10numeros_\obj\Debug\net8.0\refint\soma_10numeros_.dll
+C:\Users\Amanda.silva\Desktop\Luizinho\soma_10numeros_\soma_10numeros_\obj\Debug\net8.0\soma_10numeros_.pdb
+C:\Users\Amanda.silva\Desktop\Luizinho\soma_10numeros_\soma_10numeros_\obj\Debug\net8.0\soma_10numeros_.genruntimeconfig.cache
+C:\Users\Amanda.silva\Desktop\Luizinho\soma_10numeros_\soma_10numeros_\obj\Debug\net8.0\ref\soma_10numeros_.dll

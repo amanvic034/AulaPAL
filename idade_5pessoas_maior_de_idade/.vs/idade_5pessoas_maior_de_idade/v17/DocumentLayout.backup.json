@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amanda.silva\\Desktop\\Luizinho\\idade_5pessoas_maior_de_idade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0FE437-A769-4FBB-933C-B2D6855E0E92}|idade_5pessoas_maior_de_idade\\idade_5pessoas_maior_de_idade.csproj|c:\\users\\amanda.silva\\desktop\\luizinho\\idade_5pessoas_maior_de_idade\\idade_5pessoas_maior_de_idade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0FE437-A769-4FBB-933C-B2D6855E0E92}|idade_5pessoas_maior_de_idade\\idade_5pessoas_maior_de_idade.csproj|solutionrelative:idade_5pessoas_maior_de_idade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amanda.silva\\Desktop\\Luizinho\\idade_5pessoas_maior_de_idade\\idade_5pessoas_maior_de_idade\\Program.cs",
+              "RelativeDocumentMoniker": "idade_5pessoas_maior_de_idade\\Program.cs",
+              "ToolTip": "C:\\Users\\Amanda.silva\\Desktop\\Luizinho\\idade_5pessoas_maior_de_idade\\idade_5pessoas_maior_de_idade\\Program.cs",
+              "RelativeToolTip": "idade_5pessoas_maior_de_idade\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T13:10:20.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

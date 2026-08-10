@@ -1,0 +1,14 @@
+C:\Users\Amanda.silva\Desktop\Luizinho\exemplo_2_for\exemplo_2_for\obj\Debug\net8.0\exemplo_2_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanda.silva\Desktop\Luizinho\exemplo_2_for\exemplo_2_for\obj\Debug\net8.0\exemplo_2_for.AssemblyInfoInputs.cache
+C:\Users\Amanda.silva\Desktop\Luizinho\exemplo_2_for\exemplo_2_for\obj\Debug\net8.0\exemplo_2_for.AssemblyInfo.cs
+C:\Users\Amanda.silva\Desktop\Luizinho\exemplo_2_for\exemplo_2_for\obj\Debug\net8.0\exemplo_2_for.csproj.CoreCompileInputs.cache
+C:\Users\Amanda.silva\Desktop\Luizinho\exemplo_2_for\exemplo_2_for\bin\Debug\net8.0\exemplo_2_for.exe
+C:\Users\Amanda.silva\Desktop\Luizinho\exemplo_2_for\exemplo_2_for\bin\Debug\net8.0\exemplo_2_for.deps.json
+C:\Users\Amanda.silva\Desktop\Luizinho\exemplo_2_for\exemplo_2_for\bin\Debug\net8.0\exemplo_2_for.runtimeconfig.json
+C:\Users\Amanda.silva\Desktop\Luizinho\exemplo_2_for\exemplo_2_for\bin\Debug\net8.0\exemplo_2_for.dll
+C:\Users\Amanda.silva\Desktop\Luizinho\exemplo_2_for\exemplo_2_for\bin\Debug\net8.0\exemplo_2_for.pdb
+C:\Users\Amanda.silva\Desktop\Luizinho\exemplo_2_for\exemplo_2_for\obj\Debug\net8.0\exemplo_2_for.dll
+C:\Users\Amanda.silva\Desktop\Luizinho\exemplo_2_for\exemplo_2_for\obj\Debug\net8.0\refint\exemplo_2_for.dll
+C:\Users\Amanda.silva\Desktop\Luizinho\exemplo_2_for\exemplo_2_for\obj\Debug\net8.0\exemplo_2_for.pdb
+C:\Users\Amanda.silva\Desktop\Luizinho\exemplo_2_for\exemplo_2_for\obj\Debug\net8.0\exemplo_2_for.genruntimeconfig.cache
+C:\Users\Amanda.silva\Desktop\Luizinho\exemplo_2_for\exemplo_2_for\obj\Debug\net8.0\ref\exemplo_2_for.dll
